@@ -2,7 +2,7 @@
 
 A concise, practical guide to Git and GitHub — what they are, how they differ, and the commands you'll actually use day to day. Written up as a PDF report, originally for coursework, and shared here for anyone learning version control from scratch.
 
-📄 **[Read the full PDF guide](./Git_and_GitHub.pdf)**
+📄  **[Read the full PDF guide](./GIT%20AND%20GIT%20HUB.pdf)**
 
 ## What's inside
 
